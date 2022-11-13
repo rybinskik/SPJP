@@ -61,7 +61,7 @@ Napisz program który pobierze od użytkownika liczbę i sprawdzi czy jest ona p
 
 ## Zadanie 13
 
-Napisz program który dla wybranych kątów wyrażonych w radianach wypisze wartości tych kontów w stopniach.
+Napisz program który dla wybranych kątów wyrażonych w radianach wypisze wartości tych kątów w stopniach.
 Przykład:
 
 ```
